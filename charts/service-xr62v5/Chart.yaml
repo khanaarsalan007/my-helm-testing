@@ -1,0 +1,6 @@
+apiVersion: v1
+description: Cloudplex auto generated Helm Chart for service-xr62v5
+name: service-xr62v5
+source:
+- app.cloudplex.io
+version: ri7qurzludxpacrbtp9xd07f
